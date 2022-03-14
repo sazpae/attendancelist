@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925023393411",
+    "project_id": "swipable-attandance",
+    "storage_bucket": "swipable-attandance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925023393411:android:f55280bff446633ccd6db6",
+        "android_client_info": {
+          "package_name": "com.example.attendancelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925023393411-1hda89uq9b5775foliumnsebacem66jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8FNvBTgHNkHXDACiAkwt1JDWFGVnF3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925023393411-1hda89uq9b5775foliumnsebacem66jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
